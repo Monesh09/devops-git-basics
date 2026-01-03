@@ -1,0 +1,7 @@
+cd
+ls -ltr
+git init
+git add
+git clone
+git commit
+git push
